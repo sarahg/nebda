@@ -1,22 +1,23 @@
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
+    <?php include_once('config.php'); ?>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Northeast Brewers + Distillers Association</title>
-    <link rel="stylesheet" href="/css/foundation.min.css" />
+    <link rel="stylesheet" href="<?php echo $base_url; ?>/css/foundation.min.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,700|Quattrocento+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/styles.css" />
-    <script src="/js/vendor/modernizr.js"></script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>/css/styles.css" />
+    <script src="<?php echo $base_url; ?>/js/vendor/modernizr.js"></script>
   </head>
   <body>
 
     <div class="row">
       <div class="large-12 columns">
-        <a href="/" class="logo"><img src="/img/nebda.png" alt="NEBDA logo"></a>
+        <a href="<?php echo $base_url; ?>" class="logo"><img src="<?php echo $base_url; ?>/img/nebda.png" alt="NEBDA logo"></a>
         <ul id="main-menu" class="menu-bar">
-          <li><a href="/members">Our Members</a></li>
+          <li><a href="<?php echo $base_url; ?>/members">Our Members</a></li>
           <li><a href="mailto:nebdamn@gmail.com">Contact Us</a></li>
         </ul>
       </div>
@@ -26,7 +27,7 @@
       <div class="large-8 medium-8 columns">
         <div class="title"><h1>Events</h1></div>
         <h2>The Northeast Halloween Crawl</h2>
-        <p><img src="/img/events/halloween.jpg"/></p>
+        <p><img src="<?php echo $base_url; ?>/img/events/halloween.jpg"/></p>
 
         <p>Halloween: what’s better than going door to door in search for delicious candy? Going door to door in search for delicious adult beverages! To celebrate what is truly the adult version of Halloween candy; the good people at <a href="http://bitterminnesotabrewerytours.com/">Bitter Minnesota</a> and the Northeast Brewers & Distillers Association (NEBDA) are hosting a Northeast Halloween Taproom Crawl on <strong>Saturday, Oct. 31 starting at 7 p.m.</strong></p>
 
@@ -62,7 +63,7 @@
           </div>
           <div class="large-6 columns">
             <ul class="inline-list right">
-              <li><a href="/members">Our Members</a></li>
+              <li><a href="<?php echo $base_url; ?>/members">Our Members</a></li>
               <li><a href="mailto:nebdamn@gmail.com">Contact Us</a></li>
             </ul>
           </div>

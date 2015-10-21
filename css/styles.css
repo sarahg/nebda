@@ -66,6 +66,19 @@ a.google-plus {
   color: #ee342e;
 }
 
+.member-logos img {
+  max-width: 150px;
+}
+.member-logos div {
+  padding: 0 0 20px 0;
+}
+.member-logos div:nth-child(3n+1) {
+  clear:left;
+}
+.member-logos .columns+.columns:last-child {
+  float: left;
+}
+
 @media (max-width: 772px) {
   #main-menu {
     float: left;

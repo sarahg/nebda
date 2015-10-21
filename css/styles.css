@@ -50,11 +50,23 @@ h1.title {
   text-decoration: underline;
 }
 
+.social {
+  margin-bottom: 30px;
+  text-align: right;
+}
+.social a {
+  color: #f5a41f;
+  margin-left: 10px;
+}
+a.twitter {
+  color: #63bde0;
+}
+a.google-plus {
+  color: #ee342e;
+}
+
 @media (max-width: 600px) {
   .facet_sidebar {
     display: none;
   }
 }
-
-
-

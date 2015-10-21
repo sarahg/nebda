@@ -6,6 +6,7 @@
     <title>Northeast Brewers + Distillers Association</title>
     <link rel="stylesheet" href="css/foundation.min.css" />
     <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,700|Quattrocento+Sans:400,700' rel='stylesheet' type='text/css'>
     <script src="js/vendor/modernizr.js"></script>
   </head>
@@ -41,7 +42,10 @@
       </div>
 
       <div class="large-4 medium-4 columns">
-        <div class="social-icons">
+        <div class="social">
+          <a class="facebook" href="https://www.facebook.com/nebdaorg"><i class="fa fa-facebook-square fa-4x"></i></a>
+          <a class="twitter" href="https://twitter.com/nebda_mn"><i class="fa fa-twitter-square fa-4x"></i></a>
+          <a class="google-plus" href=""><i class="fa fa-google-plus-square fa-4x"></i></a>
         </div>
         <div class="panel">
           <h3>About NEBDA</h3>

@@ -45,7 +45,8 @@
         <div class="social">
           <a class="facebook" href="https://www.facebook.com/nebdaorg"><i class="fa fa-facebook-square fa-4x"></i></a>
           <a class="twitter" href="https://twitter.com/nebda_mn"><i class="fa fa-twitter-square fa-4x"></i></a>
-          <a class="google-plus" href=""><i class="fa fa-google-plus-square fa-4x"></i></a>
+          <a class="google-plus" href="https://plus.google.com/share?url={http://www.nebdamn.org}"
+            onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus-square fa-4x"></i></a>
         </div>
         <div class="panel">
           <h3>About NEBDA</h3>

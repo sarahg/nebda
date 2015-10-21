@@ -1,0 +1,60 @@
+
+body {
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+h1, h2, h3, h4 {
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  color: white;
+  background-color: #63bde0;
+  padding: 5px 20px;
+  margin: 0px 0 30px;
+}
+h2 {
+  margin: 10px 0 20px;
+}
+a {
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  color: #4b90ab;
+}
+
+a.logo {
+  display: block;
+  margin: 20px 0 30px 0;
+}
+
+h1.title {
+  background: #63bde0;
+}
+
+.menu-bar {
+  list-style: none;
+  margin: 0;
+  left: 0;
+}
+.menu-bar li {
+  float: left;
+}
+.menu-bar li a {
+  background-color: #ee342e;
+  color: #FFF;
+  font-weight: bold;
+  padding: .875rem 1.75rem .9375rem;
+  display: inline-block;
+}
+.menu-bar li a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
+
+
+

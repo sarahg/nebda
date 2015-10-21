@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Northeast Brewers + Distillers Association</title>
     <link rel="stylesheet" href="/css/foundation.min.css" />
-    <link rel="stylesheet" href="/css/styles.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,700|Quattrocento+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/css/styles.css" />
     <script src="/js/vendor/modernizr.js"></script>
   </head>
   <body>

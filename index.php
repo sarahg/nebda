@@ -10,6 +10,16 @@
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,700|Quattrocento+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="<?php echo $base_url; ?>/css/styles.css" />
     <script src="<?php echo $base_url; ?>/js/vendor/modernizr.js"></script>
+    <link rel="shortcut icon" href="<?php echo $base_url; ?>/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="<?php echo $base_url; ?>/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="<?php echo $base_url; ?>/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="<?php echo $base_url; ?>/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="<?php echo $base_url; ?>/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="<?php echo $base_url; ?>/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="<?php echo $base_url; ?>/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="<?php echo $base_url; ?>/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="<?php echo $base_url; ?>/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $base_url; ?>/apple-touch-icon-180x180.png" />
   </head>
   <body>
 

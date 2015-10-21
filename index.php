@@ -31,7 +31,7 @@
 
         <p>Halloween: what’s better than going door to door in search for delicious candy? Going door to door in search for delicious adult beverages! To celebrate what is truly the adult version of Halloween candy; the good people at <a href="http://bitterminnesotabrewerytours.com/">Bitter Minnesota</a> and the Northeast Brewers & Distillers Association (NEBDA) are hosting a Northeast Halloween Taproom Crawl on <strong>Saturday, Oct. 31 starting at 7 p.m.</strong></p>
 
-        <p>Compliments of Bitter Minnesota Brewery Tours, the evening will feature free shuttles to and from some of the best tap and cocktail rooms throughout Northeast Minneapolis.</p>
+        <p>Compliments of Bitter Minnesota Brewery Tours, the evening will feature free shuttles to and from some of the best tap and cocktail rooms throughout Northeast Minneapolis. With two buses running all night, partygoers can don their finest costumes and cruise safely and easily throughout Northeast all night. Between Dangerous Man, Fair State, 612 Brew, Bauhaus Brew Labs, Sociable Cider Werks, NorthGate Brewing and Wander North Distillery, shuttles will run constantly, making about 2 stops per hour at each location.</p>
 
         <p>Each tap and cocktail room is pulling out all the stops in a different way, guaranteeing an amazing and unique experience at each locale. The evening will feature everything from scary movies to costume contests to dance parties to haunted breweries and more.</p>
 

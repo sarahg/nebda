@@ -8,17 +8,14 @@
     <link rel="stylesheet" href="/css/styles.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,700|Quattrocento+Sans:400,700' rel='stylesheet' type='text/css'>
-    <script src="/bower_components/smartmenus/jquery.smartmenus.js" type="text/javascript"></script>
     <script src="/js/vendor/modernizr.js"></script>
   </head>
   <body>
 
     <div class="row">
-      <div class="large-8 columns">
+      <div class="large-12 columns">
         <a href="/" class="logo"><img src="/img/nebda.png" alt="NEBDA logo"></a>
-      </div>
-      <div class="large-4 columns">
-        <ul class="menu-bar">
+        <ul id="main-menu" class="menu-bar">
           <li><a href="/members">Our Members</a></li>
           <li><a href="mailto:nebdamn@gmail.com">Contact Us</a></li>
         </ul>
